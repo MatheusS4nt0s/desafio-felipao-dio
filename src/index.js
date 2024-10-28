@@ -1,4 +1,4 @@
-let eroi = "Mestre dos Magos";
+let heroi = "Mestre dos Magos";
 let xp = 5001;
 let level = "";
 
@@ -20,6 +20,6 @@ if (xp < 1000) {
     level = "Radiante";
 }
 
-console.log("O Herói de nome " + eroi + " está no nível de " + level);
+console.log("O Herói de nome " + heroi + " está no nível de " + level);
 
 
